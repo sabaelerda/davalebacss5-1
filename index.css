@@ -37,6 +37,10 @@ body {
     font-family: "Inter", sans-serif;
 }
 
+.color {
+    color: #ffffff;
+}
+
 .home {
     color: #B968DE;
     font-weight: 500;
